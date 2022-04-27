@@ -9,9 +9,12 @@ Para correr la aplicación primero de tiene que instalar los paquetes de node.
 
 Despues ejecutas el codigo siguiente en la terminal para abrir el proyecto en android
 
+
 ``` npm run android ```
 
 Es posible escanear el QR en el cliente de Expo
+
+<b>Nota: </b><i>Si vas a usar el emulador, asegurate que primero ya tengas iniciado el emulador antes de ejecutar ``` npm run android ``` lo mismo si conectas tu dispositivo. </i>
 
 ## Expo Demo
 El QR lo hizo automaticamente el entorno de Expo para poder entrar facilmente.
