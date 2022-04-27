@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Instafood",
+    "slug": "instafood-recipes-app",
+    "description": "App for a gastronomy student who want to show recipes",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.alan.instafood",
+      "versionCode": 1
+    }
+  }
+}
